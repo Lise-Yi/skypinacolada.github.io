@@ -96,7 +96,7 @@ author:
   name             : "Lise"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
-  location         : ""
+  location         : "Mac"
   email            :
   links:
     - label: "Email"
