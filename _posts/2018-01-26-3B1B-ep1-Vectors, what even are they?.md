@@ -7,6 +7,7 @@ categories: jekyll update
 https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=2&t=277s	
 
 
+----
 3 distinctive but related perspectives about vectors	
 
 
@@ -30,55 +31,49 @@ https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE
 
 
 
-
-At first, we will think about an arrow inside a coordinate system, like the x-y plane, with its tail sitting at the origin.	
-In linear algebra, it's almost always the case that your vector will be rooted at the origin. 	
-Once we understand a new concept in the context of arrows in space, we'll translate it over to the list-of numbers perspective, which we can do by considering the coordinates of the vector.	
+The way we will think in this lecture: 
+an arrow inside coordinate system(tail sitting at the origin, almost always)  -> list of numbers
 
 
-The coordinates of a vector is a pair of numbers that give instructions for how to get from the tail of that vector - at the origin- to its tip. 	
-The first number tells you how far to walk along the x-axis, and the second number tells you how far to walk parallel to the y-axis after that. 	
-In three dimensions, you add a third axis, called the z-axis, which is perpendicular to both the x- and y-axes, and in this case each vector is associated with an ordered triplet of numbers.	
-The third one tells you how far to move parallel to this new z-axis. 	
+The coordinates of a vector : a pair of numbers that give instructions for how to get from the tail of that vector - at the origin- to its tip. 
+[x
+y
+z]
 
 
-To distinguish vectors from points, the convention is to write this pair of numbers vertically with square brackets around them. 	
-Every pair of numbers gives you one and only one vector, and every vector is associated with one and only one pair of numbers. 	
-Likely, Every triplet of numbers gives you one unique vector in space, and every vector in space gives you exactly one triplet of numbers. 	
-
-
+The convention is to write this pair of numbers vertically with square brackets tTo distinguish vectors from points)
+Every list of numbers -> ONE AND ONLY ONE vector
+Every vector is a- > ONE AND ONLY ONE list of numbers
 
 
 - Addition	
 
-  Let's say we have 2 vectors. 	
-  To add these 2 vectors, move the 2nd one so that its tail sits at the tip of the first one.	
-  Then if you draw a new vector from the tail of the 1st one to where the tip of the 2nd one now sits, that new vector is their sum. 	
-  This definition of addition, is pretty much the only time in linear algebra where we let vectors stray away from the origin. 	
-  Why do we add vectors like this?	
-  The lecturer like to think about it that each vector represents a certain movement, a step with a certain distance and direction in space. 	
-  If you take a step along the 1st vector, then take a step in the direction and distance described by the 2nd vector, the overall effect is just the same as if you   moved along the sum of those 2 vectors to start with. 	
-  In other words, if the 1st vector has coordiantes (1,2), and the second one has coordiantes (3,-1), the new vector has coordinates 1+3 and 2+(-1). 	
-  In general, vector addition in this list-of numbers conception looks like matching up their terms, and adding each one together. 	
-
+  Move the 2nd vector's tail to the tip of the 1st one.
+  then draw a new vector from the tail of the 1st vetor to the moved tip of the 2nd vector.
+  The new vector is their sum.
+  This is pretty much the only time in linear algebra when we let vectors detach from the origin. 
+  
 
 
 - Multiplication & Scala	
+   
+   1. multiply 2  
+    : stretch out that vector so that it's 2 times of the original length
+   2. multiply 1/3 
+    : squish it down so that it's 1/3 of the original length. 
+   3. multiply -1.8  
+    1) flipped around 
+    2) stretched out by that factor of 1.8
+    
+   These processes are called 'scaling', 
+   and the factors are called 'scalar'. 
+   
+    
 
-    If you take the number 2, and multiply it by a given vector, it means you stretch out that vector so that it's 2 times as long as when you started. 	
-    If you multiply that vector by 1/3, it means that you squish it down so that it's 1/3 of the original length. 	
-    When you multyply it by -1.8, then the vector first gets flipped around, then stretched out by that factor of 1.8. 	
-    These processes are called 'scaling'.	
-    Whenever you catch a number like 2 or 1/3 or -1.8 acting like this - scaling some vector, you call it a "scalar". 	
-    It's common to use the word "scalar" interchangeably with the word "number". 	
-    In the conception of vectors as lists of numbers, multiplying a given vector by a scalar means multiplying each one of those components by that scalar. 	
-
-
-
-
-
-In truth, it doesn't matter whether you choose arrows or lists. 	
-The usefulness of linear algebra is the ability to translate back and forth between them. 	
-It gives a data analyst a nice way to conceptualise many lists of numbers in a visual way, shich can seriously clarify patters in data, and give a global view of what certain operations do. 	
-On the filp side, it gives physicists and computer graphics programmers a language to describe space and the manipulation fo space using numbers that can be crunched and run through a computer. 	
+The usefulness of linear algebra 
+  : ability to translate back and forth between aroows or lists.  	
+To data analysts 
+  -> conceptualise many lists of numbers in a visual way, which can clarify patterns in data, and give a global view of what certain operations do. 	
+To physicists and computer graphics programmers 
+  -> a language to describe space and the manipulation for space using numbers which a computer can crunch and run through
 
