@@ -1,13 +1,9 @@
 title: "3B1B ep1"	
 date: 2020-08-30 17:17:00	
-categories: jekyll update	
+categories: 3B1B LinearAlgebra
 ---	
 
 
-https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=2&t=277s	
-
-
-----
 3 distinctive but related perspectives about vectors	
 
 
@@ -77,3 +73,6 @@ To data analysts
 To physicists and computer graphics programmers 
   -> a language to describe space and the manipulation for space using numbers which a computer can crunch and run through
 
+
+
+https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=2&t=277s	
