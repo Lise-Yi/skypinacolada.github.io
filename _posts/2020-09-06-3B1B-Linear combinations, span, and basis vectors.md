@@ -99,7 +99,7 @@ A linear combination of 3 vectors
 And again, the span of these vectors is the set of all possible linear combinations. <br>
 <br>
 Linear combination of v, w, and u:<br>
-<em><b>av + bw + cu</b></em><br>
+<em><b>av + bw + cu</b></em> <br>
 For span, let constants(a,b,c) vary. 
 
 
