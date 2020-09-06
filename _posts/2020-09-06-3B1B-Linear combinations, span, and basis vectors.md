@@ -44,7 +44,7 @@ One way to think
 
 <h2>If both scalars range freely</h2>
 <ul>
-<li> Most pairs of vectors that are not lined up or not are zero <li>
+<li> Most pairs of vectors that are not lined up or not are zero </li>
  the tip of the resulting vector will be able to reach every possible point in the plane ; every 2 dimensional vector is within your grasp. 
  <li>2 original vectors happen to line up </li>
  => this single line passing through the origin
