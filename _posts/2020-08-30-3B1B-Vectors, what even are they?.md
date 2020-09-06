@@ -5,6 +5,7 @@ categories: 3B1B LinearAlgebra
 
 
 <h1>3 distinctive but related perspectives about vectors</h1>
+
 <ol>
   <li>Physics</li>
   : Arrows pointing in space, defined by 
@@ -22,10 +23,11 @@ categories: 3B1B LinearAlgebra
   If the length of the list is 2, it's two-dimensional.	
 
 
-<li>Mathematics </li>
+  <li>Mathematics </li>
   : Anything where there's a sensible notion of adding 2 vectors, and multiplying a vector by a number	
   Seeks to generalise both of prior views	
 </ol>
+
 
 <h2>The way we will think in this lecture: </h2>
 an arrow inside coordinate system(tail sitting at the origin, almost always)  -> list of numbers
@@ -68,7 +70,7 @@ Every vector is a- > ONE AND ONLY ONE list of numbers
     2) stretched out by that factor of 1.8
     </ul>
     
-   These processes are called 'scaling', 
+   These processes are called 'scaling', <br>
    and the factors are called 'scalar'. 
    
     
