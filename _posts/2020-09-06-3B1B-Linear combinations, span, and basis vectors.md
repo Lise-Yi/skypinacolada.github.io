@@ -113,13 +113,14 @@ For span, let constants(a,b,c) vary.
 
 
 <h1>Linearly dependent/Indepednt</h1>
+<ul>
 
-linearly dependent: when at least one of the vectors is redundant - not adding anything to our span
+<li>linearly dependent: when at least one of the vectors is redundant - not adding anything to our span</li>
 
 <em>u = av + bw</em>
 
-Linearly independent : if each vector really does add another dimension to the span
-
+<li>Linearly independent : if each vector really does add another dimension to the span</li>
+</ul>
 
 
 <h1>Technical definition of basis : </h1>
