@@ -7,9 +7,11 @@ categories: 3B1B LinearAlgebra
 <h1>3 distinctive but related perspectives about vectors</h1>
 
 <h2>1. Physics </h2>
-  : Arrows pointing in space, defined by 	
-    1) length	
-    2) direction 	
+  : Arrows pointing in space, defined by 
+  <ul>
+  <li>length</li>
+  <li>direction</li> 	
+  </ul>
   As long as those 2 facts are the same, you you can move it all around and it's still the same vector. 	
   Vectors can freely sit anywhere they want in space. 	
 
@@ -54,19 +56,19 @@ Every vector is a- > ONE AND ONLY ONE list of numbers
 
 
 <h1>Multiplication & Scala</h1>
-   
-   <h2>1. multiply 2  </h2>
+   <ul>
+   <li>1. multiply 2  </li>
     : stretch out that vector so that it's 2 times of the original length
   
   
-   <h2>2. multiply 1/3 </h2>
+   <li>2. multiply 1/3 </li>
     : squish it down so that it's 1/3 of the original length. 
   
   
-   <h2>3. multiply -1.8  </h2>
+   <li>3. multiply -1.8  </li>
     1) flipped around 
     2) stretched out by that factor of 1.8
-    
+    </ul>
     
    These processes are called 'scaling', 
    and the factors are called 'scalar'. 
@@ -74,12 +76,13 @@ Every vector is a- > ONE AND ONLY ONE list of numbers
     
 
 <h1> The usefulness of linear algebra</h1> 
-  : ability to translate back and forth between aroows or lists.  	
-<h2> To data analysts </h2>
+  : ability to translate back and forth between aroows or lists. 
+  <ul>
+  <li> To data analysts </li>
   -> conceptualise many lists of numbers in a visual way, which can clarify patterns in data, and give a global view of what certain operations do. 	
-<h2>To physicists and computer graphics programmers </h2>
+  <li>To physicists and computer graphics programmers </li>
   -> a language to describe space and the manipulation for space using numbers which a computer can crunch and run through
+</ul>
 
-
-
+<h1>Link</h1>
 https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=2&t=277s	
