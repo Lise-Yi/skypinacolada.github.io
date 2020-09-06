@@ -120,6 +120,6 @@ The basis of a vector space is a set of linearly independent vectors that span t
 
 
 
-
+https://www.youtube.com/watch?v=k7RM-ot2NWY&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=3&t=111s
 
 
