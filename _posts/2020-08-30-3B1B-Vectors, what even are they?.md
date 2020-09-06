@@ -43,6 +43,7 @@ z]
 
 The convention is to write this pair of numbers vertically with square brackets tTo distinguish vectors from points)
 <br>
+<br>
 Every list of numbers -> ONE AND ONLY ONE vector<br>
 Every vector is a- > ONE AND ONLY ONE list of numbers
 
