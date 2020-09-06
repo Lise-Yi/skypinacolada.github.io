@@ -9,12 +9,10 @@ categories: 3B1B LinearAlgebra
 <ol>
   <li>Physics</li>
   : Arrows pointing in space, defined by 
-  
   <ul>
   <li>length</li>
   <li>direction</li> 	
   </ul>
-  
   As long as those 2 facts are the same, you you can move it all around and it's still the same vector. 	
   Vectors can freely sit anywhere they want in space. 	
 
@@ -68,10 +66,8 @@ Every vector is a- > ONE AND ONLY ONE list of numbers
     : squish it down so that it's 1/3 of the original length. 
   
    <li>multiply -1.8  </li>
-   <ol>
-  <li>flipped around</li> 
-  <li>stretched out by that factor of 1.8</li>
-    <ol>
+    1) flipped around 
+    2) stretched out by that factor of 1.8
     </ul>
     
    These processes are called 'scaling', <br>
