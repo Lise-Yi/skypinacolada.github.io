@@ -99,7 +99,7 @@ A linear combination of 3 vectors
 And again, the span of these vectors is the set of all possible linear combinations. <br>
 <br>
 Linear combination of v, w, and u:<br>
-<em>av + bw + cu</em><br>
+<em><b>av + bw + cu<b></em><br>
 For span, let constants(a,b,c) vary. 
 
 
@@ -117,7 +117,7 @@ For span, let constants(a,b,c) vary.
 
 <li>linearly dependent: when at least one of the vectors is redundant - not adding anything to our span</li>
 
-<em>u = av + bw</em>
+<em><b>u = av + bw</b></em>
 
 <li>Linearly independent : if each vector really does add another dimension to the span</li>
 </ul>
