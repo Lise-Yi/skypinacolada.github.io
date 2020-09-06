@@ -30,7 +30,7 @@ describe vectors numerically <br>
 different basis vectors, => a completely reasonable, new coordinate system. <br>
 alter the choices of scalar => reach every possible 2-dimensional vector <br>
 
-<em>av + bw</em>
+<b>av + bw</b>
 
 
 <h2>Where does this word ‘linear’ come from? </h2>
@@ -99,7 +99,7 @@ A linear combination of 3 vectors
 And again, the span of these vectors is the set of all possible linear combinations. <br>
 <br>
 Linear combination of v, w, and u:<br>
-<em><b>av + bw + cu</b></em> <br>
+<b>av + bw + cu</b> <br>
 For span, let constants(a,b,c) vary. 
 
 
@@ -117,7 +117,7 @@ For span, let constants(a,b,c) vary.
 
 <li>linearly dependent: when at least one of the vectors is redundant - not adding anything to our span</li>
 
-<em><b>u = av + bw</b></em>
+<b>u = av + bw</b>
 
 <li>Linearly independent : if each vector really does add another dimension to the span</li>
 </ul>
