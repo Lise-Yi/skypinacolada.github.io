@@ -26,7 +26,7 @@ describe vectors numerically
 ; an implicit choice of what basis vectors we’re using. 
 
 different basis vectors, => a completely reasonable, new coordinate system. 
-alther the choices of scalar => reach every possible 2-dimensional vector 
+alter the choices of scalar => reach every possible 2-dimensional vector 
 
 
 av + bw
@@ -42,11 +42,14 @@ One way to think
 </ol>
 
 <h2>If both scalars range freely</h2>
-
-(For most pairs of vectors)  the tip of the resulting vector will be able to reach every possible point in the plane; every 2 dimensional vector is within your grasp. 
-2 original vectors happen to line up => this single line passing through the origin
-both your vectors could be zero => be stuck at the origin. 
-
+<ul>
+<li> Most pairs of vectors that are not lined up or not are zero <li>
+ the tip of the resulting vector will be able to reach every possible point in the plane ; every 2 dimensional vector is within your grasp. 
+ <li>2 original vectors happen to line up </li>
+ => this single line passing through the origin
+ <li>both your vectors could be zero </li>
+ => be stuck at the origin. 
+</ul>
 
 
 <h1>span :</h1>
@@ -62,12 +65,14 @@ The span of 2 vectors is basically a way of asking “What are all the possible 
 A whole collection of vectors sitting on a line => really crowded
 All 2 dimensional vectors all at once, filling up the plane. => still more crowded
 
-to represent each vector with just a point in space. 
+<ul>
+ <li>To represent each vector with just a point in space. </li>
 => the line itself. 
 
-all possible 2-dimensional vectors all at once 
+ <li>All possible 2-dimensional vectors all at once </li>
 ;conceptualize each one as the point where its tip sits. 
 => the infinite, flat sheet of 2-dimensional space itself
+<ul>
 
 
 individual vectors ;  arrows
