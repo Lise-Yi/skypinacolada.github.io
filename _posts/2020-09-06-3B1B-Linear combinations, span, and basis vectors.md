@@ -72,7 +72,7 @@ All 2 dimensional vectors all at once, filling up the plane. => still more crowd
  <li>All possible 2-dimensional vectors all at once </li>
 ;conceptualize each one as the point where its tip sits. 
 => the infinite, flat sheet of 2-dimensional space itself
-<ul>
+</ul>
 
 
 individual vectors ;  arrows
