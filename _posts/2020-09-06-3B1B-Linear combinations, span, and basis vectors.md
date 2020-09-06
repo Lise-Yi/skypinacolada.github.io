@@ -122,7 +122,7 @@ Linearly independent : if each vector really does add another dimension to the s
 The basis of a vector space is a set of linearly independent vectors that span the full space
 
 
-
+<h1>link</h1>
 https://www.youtube.com/watch?v=k7RM-ot2NWY&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=3&t=111s
 
 
