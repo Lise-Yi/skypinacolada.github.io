@@ -4,10 +4,10 @@ categories: 3B1B LinearAlgebra
 ---	
 
 <h1>basis vectors</h1>
-
-i-hat: the unit vector(length 1) in the x direction
-j-hat: the unit vector(length 1) in the y direction
-
+<ul>
+ <li>i-hat: the unit vector(length 1) in the x direction</li>
+ <li>j-hat: the unit vector(length 1) in the y direction</li>
+</ul>
 
 
 <h1>linear combination </h1>
@@ -35,10 +35,11 @@ av + bw
 <h2>Where does this word ‘linear’ come from? </h2>
 
 One way to think 
-1) Fix one of those scalars
-2) Let the other one change its value freely
-3) The tip of the resulting vector draws a straight line. 
-
+<ol>
+ <li>Fix one of those scalars</li>
+ <li>Let the other one change its value freely</li>
+ <li>The tip of the resulting vector draws a straight line. </li>
+</ol>
 
 <h2>If both scalars range freely</h2>
 
@@ -84,9 +85,11 @@ the span of your 2 vectors  : the set of all possible vectors whose tips sit on 
 <h2>If we add a third vector and consider the span of all 3 of those guys?</h2>
 
 A linear combination of 3 vectors 
- 1) Choose the 3 different scalar 
- 2) Scale each of those vectors
- 3) Add them all together. 
+<ol>
+ <li> Choose the 3 different scalar </li>
+ <li> Scale each of those vectors </li>
+ <li> Add them all together. </li>
+</ol>
 
 And again, the span of these vectors is the set of all possible linear combinations. 
 
@@ -97,12 +100,12 @@ For span, let constants(a,b,c) vary.
 
 
 2 different things can happen here. 
-
-the third vector sits on the span of the first two 
+<ul>
+ <li>the third vector sits on the span of the first two </li>
 => the span doesn’t change. 
-Ithe third vector does not sit on the span of the first two 
+ <li>the third vector does not sit on the span of the first two </li>
 => unlocks access to every possible 3- dimensional vector 
-
+</ul>
 
 
 <h1>Linearly dependent/Indepednt</h1>
