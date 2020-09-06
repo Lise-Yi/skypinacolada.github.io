@@ -4,32 +4,33 @@ categories: 3B1B LinearAlgebra
 ---	
 
 <h1>basis vectors</h1>
+
 <ul>
  <li>i-hat: the unit vector(length 1) in the x direction</li>
  <li>j-hat: the unit vector(length 1) in the y direction</li>
 </ul>
 
 
+
 <h1>linear combination </h1>
 
 [3,-2]
 
-Think each coordinate, such as 3, -2, as a scalar
-In this sense, the vectors that these coordinates describe is the sum of 2 scaled vectors. 
-
+Think each coordinate, such as 3, -2, as a scalar<br>
+In this sense, the vectors that these coordinates describe is the sum of 2 scaled vectors. <br>
+<br>
 (3)i + (-2)j 
 
 
 <h2>What if we chose different basis vectors?</h2>
 
-describe vectors numerically 
+describe vectors numerically <br>
 ; an implicit choice of what basis vectors we’re using. 
+<br>
+different basis vectors, => a completely reasonable, new coordinate system. <br>
+alter the choices of scalar => reach every possible 2-dimensional vector <br>
 
-different basis vectors, => a completely reasonable, new coordinate system. 
-alter the choices of scalar => reach every possible 2-dimensional vector 
-
-
-av + bw
+<em>av + bw</em>
 
 
 <h2>Where does this word ‘linear’ come from? </h2>
@@ -54,8 +55,7 @@ One way to think
 
 <h1>span :</h1>
 
-The set of all possible vectors that you can reach with a linear combination of a given pair of vectors
-
+The set of all possible vectors that you can reach with a linear combination of a given pair of vectors<br>
 The span of 2 vectors is basically a way of asking “What are all the possible vectors you can reach using only these 2 fundamental operations, vector addition and scalar multiplication?”
 
 
@@ -83,7 +83,7 @@ sets of vectors ; points
 
 The span of  2 vectors in 3d space(pointing different direction)?
 
-the tip of the added vector will trace out => flat sheet, cutting through the origin of the 3-dimensional space
+the tip of the added vector will trace out => flat sheet, cutting through the origin of the 3-dimensional space<br>
 the span of your 2 vectors  : the set of all possible vectors whose tips sit on the flat sheet
 
 
@@ -96,11 +96,10 @@ A linear combination of 3 vectors
  <li> Add them all together. </li>
 </ol>
 
-And again, the span of these vectors is the set of all possible linear combinations. 
-
-Linear combination of v, w, and u:
-
-av + bw + cu
+And again, the span of these vectors is the set of all possible linear combinations. <br>
+<br>
+Linear combination of v, w, and u:<br>
+<em>av + bw + cu</em><br>
 For span, let constants(a,b,c) vary. 
 
 
@@ -117,7 +116,7 @@ For span, let constants(a,b,c) vary.
 
 linearly dependent: when at least one of the vectors is redundant - not adding anything to our span
 
-u = av + bw
+<em>u = av + bw</em>
 
 Linearly independent : if each vector really does add another dimension to the span
 
@@ -128,6 +127,6 @@ The basis of a vector space is a set of linearly independent vectors that span t
 
 
 <h1>link</h1>
-https://www.youtube.com/watch?v=k7RM-ot2NWY&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=3&t=111s
+<a href="https://www.youtube.com/watch?v=k7RM-ot2NWY&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=3&t=111s">link</a>
 
 
