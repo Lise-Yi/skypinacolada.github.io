@@ -4,11 +4,13 @@ categories: 3B1B LinearAlgebra
 ---	
 
 basis vectors
+
 i-hat: the unit vector(length 1) in the x direction
 j-hat: the unit vector(length 1) in the y direction
 
 
 linear combination 
+
 
 [3,-2]
 
@@ -34,6 +36,7 @@ One way to think
 2) Let the other one change its value freely
 3) The tip of the resulting vector draws a straight line. 
 
+
 If both scalars range freely
 
 (For most pairs of vectors)  the tip of the resulting vector will be able to reach every possible point in the plane; every 2 dimensional vector is within your grasp. 
@@ -47,6 +50,7 @@ The span of 2 vectors is basically a way of asking “What are all the possible 
 
 
 Vectors vs. Points
+
 
 A whole collection of vectors sitting on a line => really crowded
 All 2 dimensional vectors all at once, filling up the plane. => still more crowded
@@ -65,6 +69,7 @@ sets of vectors ; points
  
 
 What does the span of two 3d vectors look like?
+
 
 The span of  2 vectors in 3d space(pointing different direction)?
 
@@ -94,6 +99,7 @@ Ithe third vector does not sit on the span of the first two
 
 
 Linearly dependent
+
 
 : when at least one of the vectors is redundant - not adding anything to our span
 
