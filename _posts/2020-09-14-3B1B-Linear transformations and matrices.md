@@ -59,7 +59,9 @@ Matrices describe these transformations, and matrix-vector multiplication comput
 
 If the vectors that i-hat and j-hat land on are linearly dependent, the linear transformation squishes all of 2d space onto the line(the 1-dimensional span).
 
-
-
+<br>
+<br>
+<h1>Link</h1>
+<a href="https://www.youtube.com/watch?v=kYB8IZa5AuE&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=3">link</a>
 
 
