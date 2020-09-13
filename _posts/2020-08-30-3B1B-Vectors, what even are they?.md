@@ -5,7 +5,7 @@ categories: 3B1B LinearAlgebra
 
 <br>
 <br>
-<h1>3 distinctive but related perspectives about vectors</h1>
+<h2>3 distinctive but related perspectives about vectors</h2>
 
 <ol>
   <li>Physics</li>
@@ -30,12 +30,12 @@ categories: 3B1B LinearAlgebra
 </ol>
 
 
-<h2>The way we will think in this lecture: </h2>
+<h3>The way we will think in this lecture: </h3>
 an arrow inside coordinate system(tail sitting at the origin, almost always)  -> list of numbers
 
 <br>
 <br>
-<h1>The coordinates of a vector</h1> 
+<h2>The coordinates of a vector</h2> 
 : a pair of numbers that give instructions for how to get from the tail of that vector - at the origin- to its tip. 
 [x
 y
@@ -51,7 +51,7 @@ Every vector is a- > ONE AND ONLY ONE list of numbers
 
 <br>
 <br>
-<h1>Addition</h1>
+<h2>Addition</h2>
 
   Move the 2nd vector's tail to the tip of the 1st one.<br>
   then draw a new vector from the tail of the 1st vetor to the moved tip of the 2nd vector.<br>
@@ -60,7 +60,7 @@ Every vector is a- > ONE AND ONLY ONE list of numbers
   
 <br>
 <br>
-<h1>Multiplication & Scala</h1>
+<h2>Multiplication & Scala</h2>
    <ul>
    <li>multiply 2  </li>
     : stretch out that vector so that it's 2 times of the original length
@@ -79,7 +79,7 @@ Every vector is a- > ONE AND ONLY ONE list of numbers
     
 <br>
 <br>
-<h1> The usefulness of linear algebra</h1> 
+<h2> The usefulness of linear algebra</h2> 
   : ability to translate back and forth between aroows or lists. 
   <ul>
   <li> To data analysts </li>
@@ -89,5 +89,5 @@ Every vector is a- > ONE AND ONLY ONE list of numbers
 </ul>
 <br>
 <br>
-<h1>Link</h1>
+<h2>Link</h2>
 <a href="https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=2&t=277s">link</a>
