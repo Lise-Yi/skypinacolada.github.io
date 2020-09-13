@@ -12,7 +12,8 @@ then why “transformation” instead of “function”?
 Moving around all of the points in space gives the feeling of squishing and morphing space itself.
 
 
-
+<br>
+<br>
 <h2>Linear algebra limits itself to “linear” transformations.</h2>
 
 All lines(including diagonal) must remain lines, without getting curved. You should keep them parallel and evenly spaced. 
