@@ -2,8 +2,9 @@ title: "3B1B Vectors, Linear combinations, span, and basis vectors?"
 date: 2020-09-06 10:05:10	
 categories: 3B1B LinearAlgebra
 ---	
-
-<h1>basis vectors</h1>
+<br>
+<br>
+<h2>basis vectors</h2>
 
 <ul>
  <li>i-hat: the unit vector(length 1) in the x direction</li>
@@ -11,8 +12,9 @@ categories: 3B1B LinearAlgebra
 </ul>
 
 
-
-<h1>linear combination </h1>
+<br>
+<br>
+<h2>linear combination </h2>
 
 [3,-2]
 
@@ -22,7 +24,7 @@ In this sense, the vectors that these coordinates describe is the sum of 2 scale
 (3)i + (-2)j 
 
 
-<h2>What if we chose different basis vectors?</h2>
+<h3>What if we chose different basis vectors?</h3>
 
 describe vectors numerically <br>
 ; an implicit choice of what basis vectors we’re using. 
@@ -33,7 +35,7 @@ alter the choices of scalar => reach every possible 2-dimensional vector <br>
 <b>av + bw</b>
 
 
-<h2>Where does this word ‘linear’ come from? </h2>
+<h3>Where does this word ‘linear’ come from? </h3>
 
 One way to think 
 <ol>
@@ -42,7 +44,7 @@ One way to think
  <li>The tip of the resulting vector draws a straight line. </li>
 </ol>
 
-<h2>If both scalars range freely</h2>
+<h3>If both scalars range freely</h3>
 <ul>
 <li> Most pairs of vectors that are not lined up or not are zero </li>
  the tip of the resulting vector will be able to reach every possible point in the plane ; every 2 dimensional vector is within your grasp. 
@@ -53,14 +55,18 @@ One way to think
 </ul>
 
 
-<h1>span :</h1>
+
+<br>
+<br>
+<h2>span :</h2>
 
 The set of all possible vectors that you can reach with a linear combination of a given pair of vectors<br>
 The span of 2 vectors is basically a way of asking “What are all the possible vectors you can reach using only these 2 fundamental operations, vector addition and scalar multiplication?”
 
 
-
-<h1>Vectors vs. Points</h1>
+<br>
+<br>
+<h2>Vectors vs. Points</h2>
 
 A whole collection of vectors sitting on a line => really crowded
 All 2 dimensional vectors all at once, filling up the plane. => still more crowded
@@ -79,7 +85,7 @@ individual vectors ;  arrows
 sets of vectors ; points
 
  
-<h2>What does the span of two 3d vectors look like?</h2>
+<h3>What does the span of two 3d vectors look like?</h3>
 
 The span of  2 vectors in 3d space(pointing different direction)?
 
@@ -87,7 +93,7 @@ the tip of the added vector will trace out => flat sheet, cutting through the or
 the span of your 2 vectors  : the set of all possible vectors whose tips sit on the flat sheet
 
 
-<h2>If we add a third vector and consider the span of all 3 of those guys?</h2>
+<h3>If we add a third vector and consider the span of all 3 of those guys?</h3>
 
 A linear combination of 3 vectors 
 <ol>
@@ -111,8 +117,9 @@ For span, let constants(a,b,c) vary.
 => unlocks access to every possible 3- dimensional vector 
 </ul>
 
-
-<h1>Linearly dependent/Indepednt</h1>
+<br>
+<br>
+<h2>Linearly dependent/Indepednt</h2>
 <ul>
 
 <li>linearly dependent: when at least one of the vectors is redundant - not adding anything to our span</li>
@@ -122,12 +129,14 @@ For span, let constants(a,b,c) vary.
 <li>Linearly independent : if each vector really does add another dimension to the span</li>
 </ul>
 
-
-<h1>Technical definition of basis : </h1>
+<br>
+<br>
+<h2>Technical definition of basis : </h2>
 The basis of a vector space is a set of linearly independent vectors that span the full space
 
-
-<h1>link</h1>
+<br>
+<br>
+<h2>link</h2>
 <a href="https://www.youtube.com/watch?v=k7RM-ot2NWY&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=3&t=111s">link</a>
 
 
