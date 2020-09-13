@@ -3,7 +3,8 @@ date: 2020-08-30 17:17:00
 categories: 3B1B LinearAlgebra
 ---	
 
-
+<br>
+<br>
 <h1>3 distinctive but related perspectives about vectors</h1>
 
 <ol>
@@ -32,8 +33,8 @@ categories: 3B1B LinearAlgebra
 <h2>The way we will think in this lecture: </h2>
 an arrow inside coordinate system(tail sitting at the origin, almost always)  -> list of numbers
 
-
-
+<br>
+<br>
 <h1>The coordinates of a vector</h1> 
 : a pair of numbers that give instructions for how to get from the tail of that vector - at the origin- to its tip. 
 [x
@@ -48,7 +49,8 @@ Every list of numbers -> ONE AND ONLY ONE vector<br>
 Every vector is a- > ONE AND ONLY ONE list of numbers
 
 
-
+<br>
+<br>
 <h1>Addition</h1>
 
   Move the 2nd vector's tail to the tip of the 1st one.<br>
@@ -56,8 +58,8 @@ Every vector is a- > ONE AND ONLY ONE list of numbers
   The new vector is their sum.<br>
   This is pretty much the only time in linear algebra when we let vectors detach from the origin. 
   
-
-
+<br>
+<br>
 <h1>Multiplication & Scala</h1>
    <ul>
    <li>multiply 2  </li>
@@ -75,7 +77,8 @@ Every vector is a- > ONE AND ONLY ONE list of numbers
    and the factors are called 'scalar'. 
    
     
-
+<br>
+<br>
 <h1> The usefulness of linear algebra</h1> 
   : ability to translate back and forth between aroows or lists. 
   <ul>
@@ -84,6 +87,7 @@ Every vector is a- > ONE AND ONLY ONE list of numbers
   <li>To physicists and computer graphics programmers </li>
   -> a language to describe space and the manipulation for space using numbers which a computer can crunch and run through
 </ul>
-
+<br>
+<br>
 <h1>Link</h1>
 <a href="https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=2&t=277s">link</a>
