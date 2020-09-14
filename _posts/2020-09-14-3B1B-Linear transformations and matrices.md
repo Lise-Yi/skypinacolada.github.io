@@ -24,8 +24,9 @@ The origin must remain fixed in place.
 <br>
 <h2>how do you describe these transformations numerically?</h2>
 
-you only need to record where the 2 basis vectors, i-hat and j-hat each land.
-<entries a,b,c,d>
+you only need to record where the 2 basis vectors, i-hat and j-hat each land.<br>
+
+<em><entries a,b,c,d><em>
   <ul>
     <li>i-hat => (a,c)</li>
     <li>j-hat => (b,d)</li>
