@@ -25,7 +25,7 @@ The origin must remain fixed in place.
 <h2>how do you describe these transformations numerically?</h2>
 
 you only need to record where the 2 basis vectors, i-hat and j-hat each land.
-<h3>entries a,b,c,d.</h3>
+<entries a,b,c,d>
   <ul>
     <li>i-hat => (a,c)</li>
     <li>j-hat => (b,d)</li>
@@ -35,8 +35,8 @@ you only need to record where the 2 basis vectors, i-hat and j-hat each land.
 <br>
 <h2>When we apply this transformation to some vector (x,y), what do you get?</h2>
 
-((a,c),(b,d))(x,y)
-x(a,c) + y(b,d) = (ax+by, cx+dy)
+((a,c),(b,d))(x,y)<br>
+x(a,c) + y(b,d) = (ax+by, cx+dy)<br>
 ((a,c,),(b,d))(x,y) = x(a,c) + y(b,d) = (ax+by, cx+dy)
 
 
