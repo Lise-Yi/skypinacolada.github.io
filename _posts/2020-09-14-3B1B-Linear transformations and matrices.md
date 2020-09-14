@@ -26,7 +26,7 @@ The origin must remain fixed in place.
 
 you only need to record where the 2 basis vectors, i-hat and j-hat each land.<br>
 
-<em><entries a,b,c,d><em>
+<entries a,b,c,d>
   <ul>
     <li>i-hat => (a,c)</li>
     <li>j-hat => (b,d)</li>
