@@ -15,7 +15,7 @@ It can be described with a matrix all of its own, by following i-hat and j-hat.
 <ol>
   <li>multiply it one the left by the rotation matrix</li>
   <li>Take whatever you get and multiply that on the left by the shear matrix.</li>
-<ol/>
+</ol>
 
 <br>
 
@@ -54,7 +54,7 @@ The total effect of applying M1 then M2 gives us a new transformation.
   1st column of M1
   <li>applying M2 => (2,1)</li>
   multiply M2 by (1,1) 
-<ol>
+</ol>
 
 <br>
 the 1st column of the composition matrix, (2,1)
@@ -125,7 +125,7 @@ I-hat and j-hat are generally pointing close together.
 
 1  0
 I-hat and j-hat are pointing farther apart. 
-<ul>
+</ul>
 
 <br>
 M1M2 =/= M2M1
