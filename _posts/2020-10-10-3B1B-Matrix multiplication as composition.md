@@ -42,7 +42,8 @@ M2  = ((0,2) (1,0))
              
              
 <br>
-M2    M1
+M2	M1
+<br>
 The total effect of applying M1 then M2 gives us a new transformation. 
 
 <br>
