@@ -32,7 +32,7 @@ describe vectors numerically <br>
 different basis vectors, => a completely reasonable, new coordinate system. <br>
 alter the choices of scalar => reach every possible 2-dimensional vector <br>
 
-<b>av + bw</b>
+<b><em>av + bw</em></b>
 
 
 <h3>Where does this word ‘linear’ come from? </h3>
