@@ -18,11 +18,7 @@ It can be described with a matrix all of its own, by following i-hat and j-hat.
 <ol/>
 
 <br>
-1  1	          0 -1                    1 -1
-                                  =
-0  1            1  0                    1  0
-Shear        Rotation           Composition
-<br>
+
 the “product” of the original 2 matrices has the geometric meaning of applying 1 transformation then another. 
 
 <br>
