@@ -100,7 +100,7 @@ This gives a better conceptual framework that makes the properties of matrix mul
 
 <br>
 <br>
-<b>((a,c) (b,d)) ((e,g) (f,h)) = ((ae+bg,ce+dg) (af+bh, cf+dh))</b>
+<b><em>((a,c) (b,d)) ((e,g) (f,h)) = ((ae+bg,ce+dg) (af+bh, cf+dh))</em></b>
 
 
 <br>
