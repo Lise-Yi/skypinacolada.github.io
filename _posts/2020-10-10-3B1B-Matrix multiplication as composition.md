@@ -61,13 +61,13 @@ the 1st column of the composition matrix, (2,1)
 
 <br>
 <br>
-<h3><To follow j-hat><h3>
+<h3>To follow j-hat</h3>
 
 <br>
 <ol>
   <li>applying M1 => (-2, 0)</li>
 	2nd column of M1
-applying M2 => (0, -2)
+  <li>applying M2 => (0, -2)</li>
 	multiply M2 by (-2, 0)
 </ol>
 <br>
