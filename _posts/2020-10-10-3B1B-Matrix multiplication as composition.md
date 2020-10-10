@@ -32,14 +32,14 @@ Every time you compose 2 functions, you always have to read it right to left.
 <h2>Another example</h2>
 
 <br>
-            1 -2
-M1  = 
-            1  0
+            
+M1  = ((1,-2) (1,0))
+            
             
 <br>
-             0  2
-M2  =   
-             1  0
+             
+M2  = ((0,2) (1,0))
+             
              
 <br>
 M2    M1
@@ -65,17 +65,17 @@ the 1st column of the composition matrix, (2,1)
 
 <br>
 <ol>
-  <li>applying M1 => (-2, 0)</li>
+  <li>applying M1 => (-2,0)</li>
 	2nd column of M1
-  <li>applying M2 => (0, -2)</li>
-	multiply M2 by (-2, 0)
+  <li>applying M2 => (0,-2)</li>
+	multiply M2 by (-2,0)
 </ol>
 <br>
-the 2nd column of our composition matrix, (0, -2)
+the 2nd column of our composition matrix, (0,-2)
 
 <br>
-2  0
-1 -2
+((2,0) (1,-2))
+
 
 <br>
 <br>
@@ -83,29 +83,24 @@ the 2nd column of our composition matrix, (0, -2)
 This gives a better conceptual framework that makes the properties of matrix multiplication much easier to understand. 
 
 <br>
-a  b	e  f
+((a,c) (b,d)) ((e,g) (f,h))
 
-c  d	g  h
 
 <br>
 <br>
 <h3>Where does i go?</h3>
-a  b	e		 ae+bg
-		= 	
-c  d	g		 ce+dg
+((a,c) (b,d))(e,g) = (ae+bg,ce+dg)
+
 
 <br>
 <br>
 <h3>Where does j go?</h3>
-a  b	f		af+bh
-		=
-c  d	h		cf+dh
+((a,c) (b,d))(f,h) = (af+bh, cf+dh)
 
 <br>
 <br>
-a  b	e  f		ae+bg    af+bh
-  = 
-c  d	g  h		ce+dg    cf+dh
+((a,c) (b,d)) ((e,g) (f,h)) = ((ae+bg,ce+dg) (af+bh, cf+dh))
+
 
 <br>
 <br>
@@ -115,15 +110,13 @@ c  d	g  h		ce+dg    cf+dh
 <ul>
   <li> First shear then rotation</li>
 <br>
-0 -1
+((0,1) (-1,1))
 
-1  1
 I-hat and j-hat are generally pointing close together. 
   <li>First rotate then do the shear</li>
 <br>
-1 -1
+((1,1) (-1,0))
 
-1  0
 I-hat and j-hat are pointing farther apart. 
 </ul>
 
