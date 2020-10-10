@@ -124,7 +124,7 @@ For span, let constants(a,b,c) vary.
 
 <li>linearly dependent: when at least one of the vectors is redundant - not adding anything to our span</li>
 
-<b>u = av + bw</b>
+<b><em>u = av + bw</em></b>
 
 <li>Linearly independent : if each vector really does add another dimension to the span</li>
 </ul>
