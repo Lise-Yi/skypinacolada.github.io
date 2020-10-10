@@ -1,4 +1,4 @@
-<h1>title: "3B1B Matrix multiplication as composition"</h1>	
+title: "3B1B Matrix multiplication as composition"
 date: 2020-10-10 11:47:00	
 categories: 3B1B LinearAlgebra
 ---	
