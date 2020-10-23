@@ -8,8 +8,8 @@ categories: 3B1B LinearAlgebra
 <ul>
   <li>every point of space => a proxy for a vector who has its tip at that point</li>
   <li>inputs *moving over* to outputs => described by where the basis vectors go</li>
-<ul>
-Just as with 2 dimensions.
+</ul>
+<em>Just as with 2 dimensions.</em>
 <br>
 <h3>3 standard basis vectors </h3>
 <ul>
