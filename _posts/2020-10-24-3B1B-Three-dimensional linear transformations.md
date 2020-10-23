@@ -18,7 +18,7 @@ categories: 3B1B LinearAlgebra
   <li>z ; k-hat</li>
 </ul>
 <br>
-3B1B thinks it’s easier to follow only those basis vectors rather than 
+3B1B thinks it’s easier to follow only those basis vectors
 <br>
 <br>
 <h2>Record 3 vectors a 3*3 matrix</h2>
