@@ -22,7 +22,6 @@ categories: 3B1B LinearAlgebra
 <br>
 <br>
 <h2>Record 3 vectors a 3*3 matrix</h2>
-<br>
 ex) rotate 90 degrees around the y-axis
 <ul>
   <li>i-hat  => [0,0,-1]</li>
@@ -52,7 +51,6 @@ break them down as the composition of separate matrix => easier to wrap your min
 <br>
 <br>
 <h2>Perform matrix multiplication numerically</h2>
-<br>
 <em>similar to the 2-dimension</em>
 <br>
 Try to reason through what specifically this matrix multiplication should look like,<br>
