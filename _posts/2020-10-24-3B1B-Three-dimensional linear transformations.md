@@ -5,15 +5,18 @@ categories: 3B1B LinearAlgebra
 
 
 <h2>linear transformation with 3-dimensional vectors</h2>
-<br>
-every point of space => a proxy for a vector who has its tip at that point
-inputs *moving over* to outputs => described by where the basis vectors go
+<ul>
+  <li>every point of space => a proxy for a vector who has its tip at that point</li>
+  <li>inputs *moving over* to outputs => described by where the basis vectors go</li>
+<ul>
 Just as with 2 dimensions.
 <br>
-3 standard basis vectors 
-x ; i-hat
-y ; j-hat
-z ; k-hat
+3 standard basis vectors <br>
+<ul>
+  <li>x ; i-hat</li>
+  <li>y ; j-hat</li>
+  <li>z ; k-hat</li>
+</ul>
 <br>
 3B1B thinks it’s easier to follow only those basis vectors rather than 
 <br>
@@ -21,16 +24,17 @@ z ; k-hat
 <h2>Record 3 vectors a 3*3 matrix</h2>
 <br>
 ex) rotate 90 degrees around the y-axis
-<br>
-i-hat  => [0,0,-1]
-j-hat => [0,1,0] (stays)
-k-hat => [1,0,0]
+<ul>
+  <li>i-hat  => [0,0,-1]</li>
+  <li>j-hat => [0,1,0] (stays)</li>
+  <li>k-hat => [1,0,0]</li>
+</ul>
 <br>
 Those 3 sets become the columns of a matrix 
 <br>
 <br>
 <h2>Reasoning where vector lands</h2>
-almost identical to 2 dimensions 
+almost identical to 2 dimensions <br>
 each of coordinates => instructions for how to scale each basis vector so that they add together
 <br>
 Scaling and Adding process works both before and after the transformation. 
@@ -51,7 +55,7 @@ break them down as the composition of separate matrix => easier to wrap your min
 <br>
 <em>similar to the 2-dimension</em>
 <br>
-Try to reason through what specifically this matrix multiplication should look like,
+Try to reason through what specifically this matrix multiplication should look like,<br>
 thinking closely about how it relates to the idea of applying 2 successive transformations
 <br>
 <br>
