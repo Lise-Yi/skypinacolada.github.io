@@ -47,7 +47,7 @@ similar with 2*2
   <li>applying the transformation encoded by the left one.</li>
 </ol>
 <br>
-3d matrix multiplication ; important for computer graphics and robotics 
+3d matrix multiplication ; important for computer graphics and robotics <br>
 break them down as the composition of separate matrix => easier to wrap your mind around
 <br>
 <br>
