@@ -11,7 +11,7 @@ categories: 3B1B LinearAlgebra
 <ul>
 Just as with 2 dimensions.
 <br>
-3 standard basis vectors <br>
+<h3>3 standard basis vectors </h3>
 <ul>
   <li>x ; i-hat</li>
   <li>y ; j-hat</li>
