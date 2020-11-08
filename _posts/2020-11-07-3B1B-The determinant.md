@@ -22,6 +22,7 @@ if the determinant of a given matrix is 0 => the matrix squishes into a smaller 
 <h2>How can you scale area by a negative number?</h2>
 The determinant allows for negative values. <br>
 ; flipping space, invert the orientation of space <br>
+<br>
  If you were thinking of 2-d space as a sheet of paper, that one seems to turn over that sheet onto the other side.<br>
 <br>
 <br>
