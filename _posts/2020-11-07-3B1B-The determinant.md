@@ -54,7 +54,7 @@ This time, it tells you how much volumes get scaled.
 </ul>
 <br>
 <br>
-<h2>Columns must be linearly dependent</h2>
+<h2>linearly dependent Columns</h2>
 <ul>
   <li> A determinant of 0 =>  all of space is squished onto 0 volume( a flat plane, a line, a single point)</li>
   <li> The columns of the matrix  => linearly dependent. </li>
