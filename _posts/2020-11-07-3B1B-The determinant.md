@@ -65,19 +65,19 @@ This time, it tells you how much volumes get scaled.
 The right hand rule describes orientation in 3d.
 <ul>
   <li> forefinger  => i-hat </li>
-  <li>middle finger => j-hat</li>
-  <li>thumb => k-hat</li>
+  <li> middle finger => j-hat</li>
+  <li> thumb => k-hat</li>
 </ul> 
 <h3>after the transformation</h3>
   <h4>Can</h4>
   <ul>
-    <li>; orientation => not changed </li>
-    <li>; the determinant => positive</li>
+    <li> orientation => not changed </li>
+    <li> the determinant => positive</li>
   </ul>
   <h4>Can't</h4>
   <ul>
-    <li>; orientation => flipped </li>
-    <li>;the determinant => negative </li>
+    <li> orientation => flipped </li>
+    <li> the determinant => negative </li>
   </ul>
 <br>
 <br>
