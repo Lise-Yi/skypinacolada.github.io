@@ -5,12 +5,12 @@ categories: 3B1B LinearAlgebra
 ---	
 <br>
 <br>
-<h2>Search Keyword for the actual computation<h2>
+<h2>Search Keyword for the actual computation</h2>
 <br>
 Gaussian elimination <br>
 Row echelon form<br>
 <br>
-<h2>linear system of equations <h2>
+<h2>linear system of equations </h2>
 <ul>
 <li> the only thing happening to each variable => scaled by some constant </li>
 <li> the only thing happening to each of those scaled variables => added to each other</li> 
