@@ -29,7 +29,7 @@ ex)<br>
 looks a lot like matrix vector multiplication. <br>
 <br>
 <br>
-<h3> geometric interpretation <h3>
+<h3> geometric interpretation </h3>
 Ax = v : after applying the transformation, a vector x lands on v. 
 <br>
 <br>
