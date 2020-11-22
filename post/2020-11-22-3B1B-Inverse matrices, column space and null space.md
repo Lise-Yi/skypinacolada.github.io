@@ -47,7 +47,8 @@ inverse of A : playing the transformation in reverse <br>
 identity transformation : the transformation that does nothing <br>
 <br>
 solve your equation by multiplying this inverse matrix by v. <br>
-geometrically => you’re playing the transformation in reverse, and following v. <br>
+<h3> geometric interpretation </h3>
+you’re playing the transformation in reverse, and following v. <br>
 A, and some vector v, and you’re looking for the vector x that lands on v.
 <br>
 <br>
