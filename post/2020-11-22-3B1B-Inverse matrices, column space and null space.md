@@ -55,7 +55,7 @@ A, and some vector v, and you’re looking for the vector x that lands on v.
 <ul>
   <li>the transformation associated with this system of equations squishes space into a smaller dimension </li>
   <li>NO inverse (You cannot un-squish a line to turn it into a plane. That’s not something that a function can do) </li>
-  <li>The solution can exists even when there is no inverse You have to be lucky enough that the vector v lives somewhere on that  squishes space </li>
+  <li>The solution can exists even when there is no inverse. You have to be lucky enough that the vector v lives somewhere on that  squishes space </li>
 </ul>
 <br>
 <br>
