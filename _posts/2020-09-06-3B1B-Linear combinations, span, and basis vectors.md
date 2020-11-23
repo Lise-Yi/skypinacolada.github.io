@@ -1,4 +1,4 @@
-title: "3B1B Vectors, Linear combinations, span, and basis vectors?"	
+title: "3B1B Vectors, Linear combinations, span, and basis vectors"	
 date: 2020-09-06 10:05:10	
 categories: 3B1B LinearAlgebra
 ---	
