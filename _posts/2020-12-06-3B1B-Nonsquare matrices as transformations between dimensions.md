@@ -3,7 +3,8 @@ date: 2020-12-06 17:28:00
 categories: 3B1B LinearAlgebra
 <br>
 <br>
-Encoding transformations with a matrix <br>
+<br>
+<h4>Encoding transformations with a matrix </h4>
 => look at where each basis vector lands, and write the coordinates of the landing spots as the columns of a matrix <br>
 <br>
 <br>
