@@ -15,7 +15,7 @@ categories: 3B1B LinearAlgebra
   <li>3 rows ; landing spots have 3 separate coordinates.</li>
   </ul>
   <em>full rank</em><br>
-  the input space dimensions = landing space dimensions
+  the input space dimensions = landing space dimensions<br>
 <br>
 <br>
 <h4>2 by 3 matrix (3 dimensions -> 2 dimensions)</h4>
