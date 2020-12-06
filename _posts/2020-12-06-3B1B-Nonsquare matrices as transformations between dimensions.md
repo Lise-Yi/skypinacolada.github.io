@@ -9,7 +9,6 @@ categories: 3B1B LinearAlgebra
 <br>
 <br>
 <h3>geometric interpretation<h3>
-<br>
   <h4>3 by 2 matrix  (2 dimensions -> 3 dimensions)</h4>
   <ul>
   <li>2 columns ;  input space has 2 basis vectors</li>
@@ -31,6 +30,5 @@ categories: 3B1B LinearAlgebra
   linearity in this case ;  a line of evenly spaced dots -> remain evenly spaced after the        transformation <ul>
   <li>2 columns that have just a single entry : where the basis vectors land</li>
   </ul>
-  <br>
   *close ties to the dot product
 </ul>
