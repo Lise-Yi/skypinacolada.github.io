@@ -1,6 +1,7 @@
-title: "3B1B Nonsquare matrices as transformations between dimensions"	
-date: 2020-12-06 17:28:00	
+title: "3B1B Inverse matrices, column space and null space"	
+date: 2020-11-22 17:45:00	
 categories: 3B1B LinearAlgebra
+---	
 <br>
 <br>
 <br>
