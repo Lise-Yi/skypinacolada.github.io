@@ -15,8 +15,7 @@ categories: 3B1B LinearAlgebra
   <li>2 columns ;  input space has 2 basis vectors</li>
   <li>3 rows ; landing spots have 3 separate coordinates.</li>
   </ul>
-  <br>
-  <b>full rank</b><br>
+  <em>full rank</em><br>
   the input space dimensions = landing space dimensions
 <br>
 <br>
