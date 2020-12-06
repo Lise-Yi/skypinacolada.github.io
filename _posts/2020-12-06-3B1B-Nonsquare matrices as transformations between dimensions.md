@@ -32,7 +32,7 @@ categories: 3B1B LinearAlgebra
 <h4>1 by 2 matrix (2 dimensions -> 1 dimension / 2d vectors -> numbers)</h4>
   1 dimension is just a number line
   linearity in this case ;  a line of evenly spaced dots -> remain evenly spaced after the        transformation <ul>
-  <li>2 columns that have just a single entry : where the basis vectors land</li>
+  <li>2 columns that have just a single entry ; where the basis vectors land</li>
   </ul>
   *close ties to the dot product
 </ul>
