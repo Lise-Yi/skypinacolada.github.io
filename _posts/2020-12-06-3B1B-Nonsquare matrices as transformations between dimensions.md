@@ -4,8 +4,10 @@ categories: 3B1B LinearAlgebra
 <br>
 <br>
 <br>
+<br>
 <h4>Encoding transformations with a matrix </h4>
 => look at where each basis vector lands, and write the coordinates of the landing spots as the columns of a matrix <br>
+<br>
 <br>
 <br>
 <br>
