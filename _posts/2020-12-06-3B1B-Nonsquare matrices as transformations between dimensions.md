@@ -8,7 +8,9 @@ categories: 3B1B LinearAlgebra
 => look at where each basis vector lands, and write the coordinates of the landing spots as the columns of a matrix <br>
 <br>
 <br>
+<br>
 <h2>geometric interpretation</h2>
+<br>
   <h4>3 by 2 matrix  (2 dimensions -> 3 dimensions)</h4>
   <ul>
   <li>2 columns ;  input space has 2 basis vectors</li>
