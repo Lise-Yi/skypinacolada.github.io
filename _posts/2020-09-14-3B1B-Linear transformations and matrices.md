@@ -1,5 +1,5 @@
 ---
-title: "3B1B-Linear transformations and matrices"	
+title: "Linear transformations and matrices"	
 date: 2020-09-14 08:31:00	
 categories: 3B1B_LinearAlgebra
 ---	

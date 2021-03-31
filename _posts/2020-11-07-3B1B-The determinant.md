@@ -1,5 +1,5 @@
 ---
-title: "3B1B The determinant"	
+title: "The determinant"	
 date: 2020-11-07 12:32:00	
 categories: 3B1B_LinearAlgebra
 ---	
