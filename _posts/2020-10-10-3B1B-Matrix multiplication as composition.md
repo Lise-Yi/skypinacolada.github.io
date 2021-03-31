@@ -1,7 +1,7 @@
 ---
 title: "3B1B Matrix multiplication as composition"
 date: 2020-10-10 11:47:00	
-categories: 3B1B LinearAlgebra
+categories: 3B1B_LinearAlgebra
 ---	
 
 <h2>applying 1 transformation and then another</h2>

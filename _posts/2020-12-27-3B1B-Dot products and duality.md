@@ -1,7 +1,7 @@
 ---
 title: "Dot products and duality"	
 date: 2020-12-27 19:25:00	
-categories: 3B1B LinearAlgebra
+categories: 3B1B_LinearAlgebra
 ---	
 <br>
 <br>

@@ -1,7 +1,7 @@
 ---
 title: "3B1B Vectors, what even are they?"	
 date: 2020-08-30 17:17:00	
-categories: 3B1B LinearAlgebra
+categories: 3B1B_LinearAlgebra
 ---	
 
 <br>

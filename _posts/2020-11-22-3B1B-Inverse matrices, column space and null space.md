@@ -1,7 +1,7 @@
 ---
 title: "3B1B Inverse matrices, column space and null space"	
 date: 2020-11-22 17:45:00	
-categories: 3B1B LinearAlgebra
+categories: 3B1B_LinearAlgebra
 ---	
 <br>
 <br>
