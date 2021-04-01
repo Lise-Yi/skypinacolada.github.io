@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "skypinacolada"
-    url: https://skypinacolada.github.io/
   - title: "hamburgerMap"
-    url: https://skypinacolada.github.io/hamburgerMap/
+    url: https://skypinacolada.github.io/_posts/hamburgerMap.index/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
